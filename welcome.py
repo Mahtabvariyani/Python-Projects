@@ -1,8 +1,4 @@
-sum = ['👩‍💼', '😜', '🤯',  '😈', '👰', '😙']
+modulo_variable = 14 % 4
 
 
-for i,item in enumerate(sum):
-    print(i,item)
-    print(i + 1)
-    
-    
+print(modulo_variable)
